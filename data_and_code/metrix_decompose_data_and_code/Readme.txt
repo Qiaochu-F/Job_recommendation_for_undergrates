@@ -1,0 +1,3 @@
+Y represents the scores of 26 students on 31 jobs in the AHP results. Y2 and R2 represent sparse matrices obtained by adding a certain user's rating to a 231*326 matrix and increasing it by 500 data points. This is the adjusted dataset.
+
+When running the code, you need to replace the file addresses in matdec.py with the address of Y.xls on your computer. Additionally, the addresses of Y2 and R2 in matdec_para,1,2 need to be changed, as well as the location of the "Learning Rate and Loss Function.xls" file in loss_time. I apologize for any inconvenience this may cause you!
